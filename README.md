@@ -1,4 +1,4 @@
-# 📡 Network Interfaces Tool
+# 📡 Network Interfaces Tool 🤩
 
 Welcome to the **Network Interfaces Tool** 🌐 — a Java application that retrieves and displays information about the network interfaces available on your local machine. This tool lists each interface's display name, hardware (MAC) address, associated IP addresses, and broadcast addresses. 🚀
 
