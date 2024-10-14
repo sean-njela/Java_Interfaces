@@ -37,7 +37,7 @@ To use the tool, run the compiled Java program with the name of the network inte
 java Interfaces <interface-name>
 ```
 
-🛑 **Note**: You must provide exactly one argument — the name of the network interface. The application will automatically handle the rest.
+🛑 **Note**: You must provide exactly one argument — the name of the network interface. The application will then automatically handle the rest.
 
 ---
 

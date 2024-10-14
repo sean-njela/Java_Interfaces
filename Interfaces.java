@@ -7,6 +7,7 @@ import java.net.UnknownHostException;
 import java.util.Arrays;
 import java.util.Enumeration;
 
+
 /**
  * The Interfaces class retrieves and displays information about the network interfaces
  * available on the local machine. It lists each interface's display name, hardware (MAC) address,
